@@ -23,3 +23,88 @@
   text-decoration: none;
   color: black;
 }
+
+#helmet {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 3rem;
+}
+#helmet .right {
+  width: 60vw;
+}
+
+#helmet .left h1 {
+  font-size: 3rem;
+  margin-bottom: -0.3rem;
+}
+
+#pant {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 3rem;
+}
+#pant .right {
+  width: 60vw;
+}
+
+#pant .left h1 {
+  font-size: 3rem;
+  margin-bottom: -0.3rem;
+}
+
+#shoes {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 3rem;
+}
+#shoes .right {
+  width: 60vw;
+}
+
+#shoes .left h1 {
+  font-size: 3rem;
+  margin-bottom: -0.3rem;
+}
+
+#weather {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 3rem;
+}
+#weather .right {
+  width: 60vw;
+}
+
+#weather .left h1 {
+  font-size: 3rem;
+  margin-bottom: -0.3rem;
+}
+
+#bike {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 3rem;
+}
+#bike .right {
+  width: 60vw;
+}
+
+#bike .left h1 {
+  font-size: 3rem;
+  margin-bottom: -0.3rem;
+}
+
+.btn-primary {
+  background: #557be3;
+  color: white;
+}
+
+.btn-secondary {
+  border: 1px solid #557be3;
+  color: #557be3;
+}
